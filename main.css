@@ -98,10 +98,10 @@ div#form h1{
     color: darkgreen;
     font-size: 8em;
     letter-spacing: -0.025em;
-    margin:100px;
+    
     text-shadow: 2px 3px 2px palegreen ;  offset-x | offset-y | blur-radius | color;
-    margin-left: 20px;
-   text-align: center;
+    margin-right: 300px;
+   text-align: right;
    text-decoration: underline;
 }
 div#form label{
