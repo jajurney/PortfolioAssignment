@@ -18,7 +18,7 @@ header h2  {
  
 }
 header h3{
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-family: 'Gill Sans', 'Gill Sans MT', 'Calibri', 'Trebuchet MS', sans-serif;
     color: darkgreen;
     font-size: 6em;
     letter-spacing: -0.025em;
@@ -42,7 +42,7 @@ nav li {
 }
 nav li button , nav li button a:visited, div#form button  {
     text-decoration: solid;
-    color:palegreen;
+    color:black;
     padding: 0.1em 0.3em;
     font-size: 5.5em;
     font-weight: bold;
@@ -54,14 +54,14 @@ nav li button , nav li button a:visited, div#form button  {
 
 }
 nav li button a:hover {
-    color:darkgreen;
+    color:black;
     background-color: palegreen;
 }
 /*Common Elements*/
 body{
     font-size: 67.5%;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    background: #39150C url(imgs/wood-woods-background.jpg) no-repeat fixed top center;
+    background: #39150C url(imgs/Background2.jpg) no-repeat fixed top center;
     padding: 0;
     margin: 0;
     -webkit-background-size: 100% 100%;
@@ -87,27 +87,27 @@ div#form form {
     display: inline-block;
     padding-bottom: 5em;
     margin-left: 325px;
-    background: brown url(imgs/depositphotos_119615472-stock-photo-a-full-page-close-up.jpg);
+    background: brown url(imgs/Background1.jpg);
     text-align: center;
     border-radius: 100px;
     margin-bottom: 50px;
     margin-top: 100px;
 }
 div#form h1{
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    color: darkgreen;
+    font-family: 'Gill Sans', 'Gill Sans MT', 'Calibri', 'Trebuchet MS', sans-serif;
+    color: Black;
     font-size: 8em;
     letter-spacing: -0.025em;
     
-    text-shadow: 2px 3px 2px palegreen ;  offset-x | offset-y | blur-radius | color;
+    text-shadow: 2px 3px 2px lightslategrey ;  offset-x | offset-y | blur-radius | color;
     margin-right: 300px;
    text-align: right;
    text-decoration: underline;
 }
 div#form label{
    display: inline-block;
-    font-size: 5em;
-    color: lightgreen;
+    font-size: 4em;
+    color:black;
 }
 div#form nav#utilitymenu {
     padding-right: 30px;
@@ -125,12 +125,12 @@ section.aboutMe{
 }
 
 section h1{
-    color:darkgreen;
+    color:black;
     font-size: 6em;
     margin: .5em 0 0.5em 0;
     padding-bottom: -15px;
    
-    text-shadow:1px 2px 0 palegreen ;  offset-x | offset-y | blur-radius | color;
+    text-shadow:1px 2px 0 lightslategrey ;  offset-x | offset-y | blur-radius | color;
     text-align: center;
     font-weight: bolder;
 } 
@@ -152,12 +152,12 @@ section div#skillList {
 }
 
 section div#skillList ul h2{
-    color:darkgreen;
+    color:black;
     font-size: 4.0em;
     margin: 1em 0 0.5em 0;
     padding: 0;
    
-    text-shadow: 1px 2px 0 palegreen ;  offset-x | offset-y | blur-radius ;
+    text-shadow: 1px 2px 0 lightslategrey ;  offset-x | offset-y | blur-radius ;
     text-align: left;
 }
 section div#skillList ul li{
