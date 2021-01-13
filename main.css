@@ -1,7 +1,7 @@
 header {
     padding: 2.5em 0 0 0.5em;
     margin: 0 0 2.0em;
-    background: #39150C url(imgs/banner-woods-path-cat-939-1.jpg)   0px;
+    background: #39150C url(imgs/banner3.jpg)   0px;
     width: auto;
     height: 400px;
 }
@@ -42,11 +42,11 @@ nav li {
 }
 nav li button , nav li button a:visited, div#form button  {
     text-decoration: solid;
-    color:black;
+    color: darkgreen ;
     padding: 0.1em 0.3em;
     font-size: 5.5em;
     font-weight: bold;
-    background: brown url(imgs/805503.jpg)center 0px;
+    background: brown url(imgs/download.jfif)center 0px;
     border: transparent;
     border-width: 6px;
     border-radius: 30px;
@@ -87,7 +87,7 @@ div#form form {
     display: inline-block;
     padding-bottom: 5em;
     margin-left: 325px;
-    background: brown url(imgs/Background1.jpg);
+    background: grey;
     text-align: center;
     border-radius: 100px;
     margin-bottom: 50px;
